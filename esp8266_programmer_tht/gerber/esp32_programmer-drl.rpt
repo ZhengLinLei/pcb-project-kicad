@@ -1,5 +1,5 @@
 Drill report for esp32_programmer.kicad_pcb
-Created on Sunday, January 07, 2024 at 12:29:24 AM
+Created on Sunday, January 07, 2024 at 11:39:01 AM
 
 Copper Layer Stackup:
     =============================================================
@@ -10,7 +10,7 @@ Copper Layer Stackup:
 Drill file 'esp32_programmer-PTH-drl.gbr' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (12 holes)
+    T1  0.400mm  0.0157"  (14 holes)
     T2  0.400mm  0.0157"  (88 holes)
     T3  0.600mm  0.0236"  (4 holes)  (with 4 slots)
     T4  0.700mm  0.0276"  (28 holes)
@@ -21,7 +21,7 @@ Drill file 'esp32_programmer-PTH-drl.gbr' contains
     T9  1.200mm  0.0472"  (8 holes)
     T10  2.200mm  0.0866"  (11 holes)
 
-    Total plated holes count 195
+    Total plated holes count 197
 
 
 Drill file 'esp32_programmer-NPTH-drl.gbr' contains
