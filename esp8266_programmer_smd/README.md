@@ -1,0 +1,1 @@
+Project named ESP32_Programmer_SMD but it is ESP8266_Programmer_SMD
