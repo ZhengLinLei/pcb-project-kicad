@@ -16,7 +16,8 @@ The schema files are in the `schema` directory.  They are in the Kicad format.
 The PCB files are in the `gerber` directory.  Can be viewed with [gerbv](http://gerbv.geda-project.org/). To fabricate the PCBs, zip the contents of the `gerber` directory and upload to your favorite PCB manufacturer.
 
 ## Images
-![imgonline-com-ua-twotoone-SrQIycntSxh](https://github.com/ZhengLinLei/pcb-project-kicad/assets/77938581/f208b737-b4ff-44f3-8440-3b5722c0d928)
+![esp8266_programmer_smd](./esp8266_programmer_smd/img/PCB_all.png)
+![attiny85_programmer](./attiny85_programmer/img/PCB_all.png)
 
 ## License
 All of the projects are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
