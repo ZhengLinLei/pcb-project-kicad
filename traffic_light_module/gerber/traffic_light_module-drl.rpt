@@ -1,0 +1,24 @@
+Drill report for traffic_light_module.kicad_pcb
+Created on Monday, January 22, 2024 at 01:50:06 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'traffic_light_module-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (1 hole)
+    T2  0.900mm  0.0354"  (6 holes)
+    T3  1.000mm  0.0394"  (4 holes)
+
+    Total plated holes count 11
+
+
+Drill file 'traffic_light_module-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
