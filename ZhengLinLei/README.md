@@ -1,7 +1,9 @@
 # Business Card PCB
 A personal <b>Business Card</b> designed as a <b>PCB</b>. It contains an integrated <b>NFC</b> tag to share contact information wirelessly, and uses energy harvesting from NFC field to light up the LED circuitry!! 
 
-![PCB front view](https://user-images.githubusercontent.com/22257322/212734680-56e4b8f4-9d41-4294-b3af-e1afb594dcd1.png)
+<img width="1024" alt="pcb" src="https://github.com/ZhengLinLei/pcb-project-kicad/assets/77938581/861f89fe-74ba-472b-a12b-d38f5bae3e1b">
+<img width="677" alt="3d" src="https://github.com/ZhengLinLei/pcb-project-kicad/assets/77938581/b81c75f5-6c18-49a0-9bae-9f78a673d548">
+
 
 The heart of this PCB is the <b>NFC</b> controller IC, the <b>NT3H1101</b> from <b>NXP Semiconductors</b>.
 
@@ -24,7 +26,7 @@ While doing the PCB layout, please make sure you import the <b>NFC antenna</b> c
 <i>Note : Please make sure there is no Copper under the Antenna region, Best option is to define a custom keepout area so that you won't mess up the Antenna performance.</i>
 <br>
 
-![PCB all layers](https://user-images.githubusercontent.com/22257322/212734785-63aa6574-54da-489c-9b91-a3fcea402cf9.png)
+![pcball](https://github.com/ZhengLinLei/pcb-project-kicad/assets/77938581/f63c8e26-fc27-4cf9-92ad-c6797fa5b4da)
 
 Feel free to use this as a reference and design your own Business Card PCBs!! Good Luck!! :)
  
